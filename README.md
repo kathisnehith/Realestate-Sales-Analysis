@@ -6,8 +6,8 @@ This project delves real estate sales records focusing on town, property address
 
 ## Dataset info:
 
-1.05M records, 14 Columns
-### Attributes: 
+- **Size**: _1.05M_ records, 14 Columns
+- **Attributes**: 
 Serial Number, List Year, Date Recorded, Town, Address, Assessed Value, Sale Amount, Sales Ratio, Property Type, Residential Type, Non Use Code, Assessor Remarks, OPM Remarks, Location.
 
 ## Business Case:
@@ -16,4 +16,5 @@ Analyzing real estate sales data is crucial for understanding market trends, pro
 
 ## Skills: 
 
-Data cleaning, data analysis, data visualization, SQL, Excel, Google Sheets, Tableau, statistical analysis, hypothesis testing, data management, and performance optimization.
+- **Tools**: Excel, Google Sheets, SQL Server, Tableau
+- **Techniques**: Data Cleaning, Data Analysis, Data Visualization, SQL, Statistical Analysis, Hypothesis Testing, Data Management, Performance Optimization
